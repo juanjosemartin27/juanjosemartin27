@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Juan José Martin</h1>
-<h3 align="left">a software engineering student from Colombia!</h3>
+<h2 align="left">a software engineering student from Colombia!</h2>
 
 - 🚀 I’m currently learning **TypeScript and Python**
 
